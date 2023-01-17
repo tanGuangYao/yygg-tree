@@ -65,7 +65,7 @@
 </template>
 
 <script>
-	import collapse from "@/components/collapse/collapse"
+	import collapse from "@/components/yygg-tree/collapse"
 	export default {
 		name: "collapse",
 		components: {

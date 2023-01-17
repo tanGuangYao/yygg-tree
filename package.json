@@ -1,0 +1,19 @@
+{
+  "name": "yygg-tree",
+  "version": "1.0.0",
+  "description": "树形结构,分销,三级分销,用户树形图",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanGuangYao/yygg-tree.git"
+  },
+  "author": "yygg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanGuangYao/yygg-tree/issues"
+  },
+  "homepage": "https://github.com/tanGuangYao/yygg-tree#readme"
+}
